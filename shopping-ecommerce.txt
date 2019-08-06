@@ -6,6 +6,7 @@ amazon.com
 walmart.com
 oldnavy.com
 nordstrom.com
+shop.nordstrom.com
 modcloth.com
 forever21.com
 groupon.com
@@ -15,6 +16,7 @@ aliexpress.com
 target.com
 paypal.com
 ebay.com
+www.ebay.com
 zappos.com
 rakuten.com
 wayfair.com
