@@ -1,0 +1,32 @@
+# Shopping and Ecommerce sites
+# License: GPLv3
+# Source: https://github.com/ethanpil/non-adblock-hosts-lists/
+
+amazon.com
+walmart.com
+oldnavy.com
+nordstrom.com
+modcloth.com
+forever21.com
+groupon.com
+starbucks.com
+coffeebean.com
+aliexpress.com
+target.com
+paypal.com
+ebay.com
+zappos.com
+rakuten.com
+wayfair.com
+flipkart.com
+sears.com
+wish.com
+costco.com
+etsy.com
+macys.com
+groupon.com
+craigslist.com
+bestbuy.com
+supremenewyork.com
+supremelosangeles.com
+mltd.com
