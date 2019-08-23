@@ -1,0 +1,29 @@
+# Streaming Services Hostnames
+# License: GPLv3
+# Source: https://github.com/ethanpil/streaming-hosts-list/
+
+#Spotify
+spotify.com
+www.spotify.com
+spclient.wg.spotify.com
+apresolve.spotify.com
+wg.spotify.com
+beta.spotify.map.fastly.net
+t.scdn.co
+i.scdn.co
+app.adjust.com
+heads-fa.spotify.com
+audio-fac.spotify.com
+
+#Pandora
+pandora.com
+www.pandora.com
+stats.pandora.com
+
+#iTunes Radio
+#https://support.cipafilter.com/index.php?/Knowledgebase/Article/View/107/53/how-to---block-itunes-radio
+play.itunes.apple.com
+radio-activity.itunes.apple.com
+radio-services.itunes.apple.com
+radio.itunes.apple.com
+streamingaudio.itunes.apple.com
