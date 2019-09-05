@@ -27,6 +27,7 @@ nflxvideo.net
 nflximg.net
 nflxext.com
 nflxso.net
+mobile-ixanycast.ftl.netflix.com
 
 #Amazon Video
 #https://www.netify.ai/resources/applications/amazon-video
