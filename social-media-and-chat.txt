@@ -922,6 +922,14 @@ gcs.sc-cdn.net
 gtq.sct.sc-prod.net
 mvm.snapchat.com
 snap-storage-cdn.l.google.com
+us-central1-gcp.api.snapchat.com
+us-east1-aws.api.snapchat.com
+chat-pa.clients6.google.com
+gcp.api.snapchat.com
+jaguar-prod.snapchat.com
+pro-accounts.snapchat.com  
+tr.snapchat.com
+intg.snapchat.com
 
 #Pinterest
 pinterest.com
