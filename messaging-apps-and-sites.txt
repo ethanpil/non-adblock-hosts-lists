@@ -1,0 +1,22 @@
+# Messaging Apps and Sites
+# License: GPLv3
+# Source: https://github.com/ethanpil/non-adblock-hosts-lists/
+
+#Skype
+skype.com
+config.edge.skype.com
+skype.net
+skypeassets.com
+web.skype.com
+lw.skype.com
+swc.cdn.skype.com
+a.lw.skype.com
+prod.registrar.skype.com
+trap.skype.com
+go.trouter.skype.com
+edge.skype.com
+profile.skype.com
+api.asm.skype.com
+static-asm.secure.skypeassets.com
+trouter-cus.trouter.skype.com
+login.skype.com
