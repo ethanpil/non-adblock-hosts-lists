@@ -28,6 +28,7 @@ nflximg.net
 nflxext.com
 nflxso.net
 mobile-ixanycast.ftl.netflix.com
+ios.prod.ftl.netflix.com
 
 #Amazon Video
 #https://www.netify.ai/resources/applications/amazon-video
@@ -92,3 +93,21 @@ skyhook.sonarr.tv
 download.sonarr.tv
 apt.sonarr.tv
 forums.sonarr.tv
+
+#NBC
+nbc.com
+nbcuni.com
+www.nbc.com
+img.nbc.com
+theplatform.com
+player.the
+
+#ABC
+abc.com
+abc.go.com
+cdn1.edgedatg.com
+cdn2.edgedatg.com
+cdn3.edgedatg.com
+
+cw.com
+
