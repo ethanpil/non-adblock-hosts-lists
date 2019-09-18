@@ -3,8 +3,13 @@
 # Source: https://github.com/ethanpil/non-adblock-hosts-lists/
 
 amazon.com
+www.amazon.com
+www.walmart.com
 walmart.com
+rakuten.com
+www.rakuten.com
 oldnavy.com
+www.oldnavy.com
 nordstrom.com
 shop.nordstrom.com
 modcloth.com
@@ -86,4 +91,6 @@ www.asos.com
 my.asos.com
 assets.asosservices.com
 api.asos.com
-
+glamsquad.com
+links.glamsquad.com
+www.glamsquad.com
