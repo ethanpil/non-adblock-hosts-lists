@@ -68,6 +68,9 @@ www.wholefoodsmarket.com
 www.woot.com
 app.sephora.com
 sephora.com
+chat.sephora.com
+community.sephora.com
+sephora.i.lithium.com
 BuyMeBeauty.com
 cdn.studentbeans.com
 studentbeans.com
@@ -77,3 +80,10 @@ www.zara.com
 zara.net
 lulus.com
 www.lulus.com
+pandora.com
+asos.com
+www.asos.com
+my.asos.com
+assets.asosservices.com
+api.asos.com
+
