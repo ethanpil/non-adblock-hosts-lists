@@ -54,6 +54,14 @@ hulu.com
 assetshuluimcom-a.akamaihd.net
 hulu-matchmaker.s3.us-west-2.amazonaws.com
 www.hulu.com.edgesuite.net
+cws-hulu.conviva.com
+auth.hulu.com
+metcon.hulu.com
+vortex.hulu.com
+play.hulu.com
+home.hulu.com
+doppler.hulu.com
+discover.hulu.com
 
 #DirecTV
 directvnow.com
