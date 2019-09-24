@@ -930,6 +930,8 @@ jaguar-prod.snapchat.com
 pro-accounts.snapchat.com  
 tr.snapchat.com
 intg.snapchat.com
+internal-api.snapkit.com
+snakpit.com
 
 #Pinterest
 pinterest.com
