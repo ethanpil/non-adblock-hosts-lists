@@ -811,6 +811,9 @@ www.instagram.com
 api.instagram.com
 black.ish.instagram.com
 i.instagram.com
+scontent-lax3-1.cdninstagram.com
+scontent-lax3-2.cdninstagram.com
+scontent-msp1-1.cdninstagram.com
 instagram-shv-01-ams2.fbcdn.net
 instagram-shv-01-ams3.fbcdn.net
 instagram-shv-01-ash5.fbcdn.net
