@@ -94,3 +94,16 @@ api.asos.com
 glamsquad.com
 links.glamsquad.com
 www.glamsquad.com
+booking.com
+www.booking.com
+kayak.com
+www.kayak.com
+expedia.com
+www.expedia.com
+flights.google.com
+priceline.com
+www.priceline.com
+vegas.com
+www.vegas.com
+orbitz.com
+www.orbitz.com
