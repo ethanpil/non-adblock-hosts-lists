@@ -111,3 +111,17 @@ homedepot.com
 www.homedepot.com
 ebates.com
 www.ebates.com
+shopify.com
+v.shopify.com
+cdn.shopify.com
+cdn.shopifycloud.com
+pay.shopify.com
+godog.shopifycloud.com
+trekkie.tm.shopifysvc.com
+spiritualgangster108.myshopify.com
+jomashop.com
+media.jomashop.com
+likeshop.me
+macys.com
+www.macys.com
+assets.macys.com
