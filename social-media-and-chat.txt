@@ -9,6 +9,13 @@ tiktok.com
 www.muscdn.com
 www.musical.ly
 www.tiktok.com
+frontier.musical.ly
+imapi-16.musical.ly
+log2.musical.ly
+api2-16-h2.musical.ly.edgekey.net
+xlog-va.musical.ly
+mon.musical.ly
+ichannel.musical.ly
 
 #Twitter
 twitter.com
