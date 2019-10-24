@@ -125,3 +125,10 @@ likeshop.me
 macys.com
 www.macys.com
 assets.macys.com
+www.overstock.com
+overstock.com
+us.shein.com
+www.shein.com
+shein.com
+cottonon.com
+www.cottonon.com
