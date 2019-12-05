@@ -152,3 +152,12 @@ www.nordstromrack.com
 nordstromrack.com
 www.barneys.com
 barneys.com
+reebok.com
+www.reebok.com
+www.reebok.com.edgekey.net
+vans.com
+www.vans.com
+static.vans.com
+www.vans.ca
+hautelook.com
+www.hautelook.com
