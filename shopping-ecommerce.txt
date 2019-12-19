@@ -118,7 +118,19 @@ cdn.shopifycloud.com
 pay.shopify.com
 godog.shopifycloud.com
 trekkie.tm.shopifysvc.com
+monorail-edge.shopifysvc.com
+productreviews.shopifycdn.com
+shopping.yahoo.com
 spiritualgangster108.myshopify.com
+www.thebodyshop.com
+assets.thebodyshop.com
+shoprescuespa.com
+shopify.privy.com
+chat.thebodyshop.com
+axsmobile.eventshopper.com
+www.malinandgoetz.com
+shop.foxnews.com
+tos-maliva16-up.musical.ly
 jomashop.com
 media.jomashop.com
 likeshop.me
@@ -161,3 +173,6 @@ static.vans.com
 www.vans.ca
 hautelook.com
 www.hautelook.com
+brandymelvilleusa.com
+www.brandymelvilleusa.com
+cdn.brandymelvilleusa.com
