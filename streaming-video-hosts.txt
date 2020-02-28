@@ -119,3 +119,5 @@ cdn3.edgedatg.com
 
 cw.com
 
+crunchyroll.com
+eec.crunchyroll.com
