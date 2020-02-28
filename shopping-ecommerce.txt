@@ -176,3 +176,7 @@ www.hautelook.com
 brandymelvilleusa.com
 www.brandymelvilleusa.com
 cdn.brandymelvilleusa.com
+fashionnova.com
+poshmark.com
+email.poshmark.com
+tr.poshmark.com
