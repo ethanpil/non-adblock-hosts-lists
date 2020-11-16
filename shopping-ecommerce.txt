@@ -19,6 +19,7 @@ starbucks.com
 coffeebean.com
 aliexpress.com
 target.com
+api.target.com
 paypal.com
 ebay.com
 www.ebay.com
