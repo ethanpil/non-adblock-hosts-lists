@@ -2,6 +2,16 @@
 # License: GPLv3
 # Source: https://github.com/ethanpil/non-adblock-hosts-lists/
 
+#Wechat
+web.wechat.com
+wechat.com
+
+#Whatsapp
+web.whatsapp.com
+chat.cdn.whatsapp.net
+static.whatsapp.net
+privatestats.whatsapp.net
+  
 #Skype
 skype.com
 config.edge.skype.com
