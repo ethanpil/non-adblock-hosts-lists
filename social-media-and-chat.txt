@@ -806,6 +806,10 @@ zh-tw.facebook.com0.facebook.com
 #WhatsApp
 whatsapp.com
 www.whatsapp.com
+chat.cdn.whatsapp.net
+static.whatsapp.net
+media.fhhr1-2.fna.whatsapp.net
+privatestats.whatsapp.net
 api.whatsapp.com
 autodiscover.whatsapp.com
 beta.whatsapp.com
