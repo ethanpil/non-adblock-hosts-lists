@@ -194,3 +194,8 @@ bluenile.com
 etsy.com
 www.etsy.com
 i.etsystatic.com
+shopify.com
+gacha-production-store.myshopify.com
+shops.myshopify.com
+shop.ring.com
+
