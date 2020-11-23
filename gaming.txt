@@ -1,0 +1,15 @@
+# Gaming
+# License: GPLv3
+# Source: https://github.com/ethanpil/non-adblock-hosts-lists/
+
+unity3d.com
+ecommerce.iap.unity3d.com
+
+epicgames.com
+ol.epicgames.com
+datarouter.ol.epicgames.com
+datarouter-weighted.ol.epicgames.com
+xmpp-service-prod.ol.epicgames.com
+account-public-service-prod03.ol.epicgames.com
+catalog-public-service-prod06.ol.epicgames.com
+entitlement-public-service-prod08.ol.epicgames.com
