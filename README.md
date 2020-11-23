@@ -9,3 +9,5 @@ In my line of work, in addition to ads, tracking and malicious sites, I often ne
 * streaming-audio-hosts.txt	- Music and playlist sites and apps
 * streaming-video-hosts.txt - Video streaming sites and apps (non-educational)
 * news-magazines-and-blogs.txt - News media, blogs and magazine sites
+
+These lists are manually updated by me, as I find new things that need blocking on my networks. Feel free to contribute via a pull request.
