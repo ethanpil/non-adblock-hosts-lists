@@ -2,6 +2,9 @@
 # License: GPLv3
 # Source: https://github.com/ethanpil/streaming-hosts-list/
 
+#amazon
+music.amazon.com
+
 #Spotify
 spotify.com
 www.spotify.com
