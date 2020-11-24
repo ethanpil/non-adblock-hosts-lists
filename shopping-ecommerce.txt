@@ -194,9 +194,14 @@ bluenile.com
 etsy.com
 www.etsy.com
 i.etsystatic.com
+
 shopify.com
 gacha-production-store.myshopify.com
 shops.myshopify.com
+sumo-shopify.com
+monorail-edge.shopifycloud.com
+fonts.shopifycdn.com
+
 shop.ring.com
 www.soul-cycle.com
 shop.soul-cycle.com
