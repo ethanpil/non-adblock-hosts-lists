@@ -198,4 +198,6 @@ shopify.com
 gacha-production-store.myshopify.com
 shops.myshopify.com
 shop.ring.com
-
+www.soul-cycle.com
+shop.soul-cycle.com
+soul-cycle.com
