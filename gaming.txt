@@ -13,3 +13,9 @@ xmpp-service-prod.ol.epicgames.com
 account-public-service-prod03.ol.epicgames.com
 catalog-public-service-prod06.ol.epicgames.com
 entitlement-public-service-prod08.ol.epicgames.com
+
+ea.com
+river-mobile.data.ea.com
+ping1.tnt-ea.com
+pn.tnt-ea.com
+mars.tnt-ea.com
