@@ -157,3 +157,5 @@ dashboard.plex.tv
 cw.com
 crunchyroll.com
 eec.crunchyroll.com
+my.roku.com
+roku.com
