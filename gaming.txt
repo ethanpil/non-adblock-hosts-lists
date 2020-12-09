@@ -2,6 +2,12 @@
 # License: GPLv3
 # Source: https://github.com/ethanpil/non-adblock-hosts-lists/
 
+gamestop.com
+www.gamestop.com
+
+twitch.tv
+www.twitch.tv
+
 unity3d.com
 ecommerce.iap.unity3d.com
 
@@ -19,3 +25,28 @@ river-mobile.data.ea.com
 ping1.tnt-ea.com
 pn.tnt-ea.com
 mars.tnt-ea.com
+
+roblox.com
+www.roblox.com
+games.roblox.com
+gameinternationalization.roblox.com
+css.rbxcdn.com
+js.rbxcdn.com
+static.rbxcdn.com
+trak.rbxcdn.com
+c0.rbxcdn.com
+c1.rbxcdn.com
+c2.rbxcdn.com
+c3.rbxcdn.com
+c4.rbxcdn.com
+c5.rbxcdn.com
+c6.rbxcdn.com
+c7.rbxcdn.com
+tr.rbxcdn.com
+t0.rbxcdn.com
+t1.rbxcdn.com
+t2.rbxcdn.com
+t3.rbxcdn.com
+t4.rbxcdn.com
+t5.rbxcdn.com
+assetgame.roblox.com
