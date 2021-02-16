@@ -202,7 +202,9 @@ bluenile.com
 etsy.com
 www.etsy.com
 i.etsystatic.com
-
+bestbuy.com
+michaels.com
+dansdeals.com
 shopify.com
 gacha-production-store.myshopify.com
 shops.myshopify.com
