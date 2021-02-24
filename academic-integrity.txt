@@ -1,0 +1,27 @@
+# Academic Integrity
+# License: GPLv3
+# Source: https://github.com/ethanpil/non-adblock-hosts-lists/
+
+#Article Rewriters
+quillbot.com
+ref-n-write.com
+www.ref-n-write.com
+articlerewritertool.com
+csgenerator.com
+www.csgenerator.com
+rewordify.com
+simplish.org
+www.simplish.org
+seotoolzz.com
+paraphrasing-tool.com
+goparaphrase.com
+spinbot.com
+duplichecker.com
+www.duplichecker.com
+paraphrase.projecttopics.org
+seotoolstation.com
+paraphrase.tools
+edubirdie.com
+seotoolscentre.com
+rewritertools.com
+www.rewritertools.com
