@@ -2,6 +2,8 @@
 # License: GPLv3
 # Source: https://github.com/ethanpil/non-adblock-hosts-lists/
 
+play2048.co
+
 gamestop.com
 www.gamestop.com
 
