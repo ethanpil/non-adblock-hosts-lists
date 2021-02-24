@@ -995,7 +995,8 @@ pro-accounts.snapchat.com
 tr.snapchat.com
 intg.snapchat.com
 internal-api.snapkit.com
-snakpit.com
+snapkit.com
+api.snapkit.com
 
 #Pinterest
 pinterest.com
