@@ -3,6 +3,7 @@
 # Source: https://github.com/ethanpil/non-adblock-hosts-lists/
 
 play2048.co
+2048game.com
 
 gamestop.com
 www.gamestop.com
@@ -52,3 +53,28 @@ t3.rbxcdn.com
 t4.rbxcdn.com
 t5.rbxcdn.com
 assetgame.roblox.com
+
+
+www.crazygames.com
+videos.crazygames.com
+games-lcc-d.openx.net
+www.247games.com
+files.crazygames.com
+games.crazygames.com
+images.crazygames.com
+
+htmlgames.com
+www.htmlgames.com
+cdn.htmlgames.com
+
+addictinggames.com
+cdn.addictinggames.com
+cdn3.addictinggames.com
+www.addictinggames.com
+wag-services.addictinggames.com
+
+html5.gamedistribution.com
+gamedistribution.com
+
+snake.io
+www.snake.io
