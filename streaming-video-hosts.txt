@@ -157,5 +157,15 @@ dashboard.plex.tv
 cw.com
 crunchyroll.com
 eec.crunchyroll.com
+www.crunchyroll.com
+sa.crunchyroll.com
+img1.ak.crunchyroll.com
 my.roku.com
 roku.com
+
+twist.moe
+www.funimation.com
+funimation.com
+static.funimation.com
+vmfst-api.prd.funimationsvc.com
+
