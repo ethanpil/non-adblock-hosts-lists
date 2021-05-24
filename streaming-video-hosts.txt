@@ -142,12 +142,19 @@ dssott.com
 adobedtm.com
 
 #hbomax
+hbo.com
 hbomax.com
 warnermediacdn.com
 play.hbomax.com
 hbomax-assets.s3.amazonaws.com
 hbomax-images.warnermediacdn.com
 hbomax.tv.cutestat.com
+artist.api.cdn.hbo.com
+markers.api.hbo.com
+cmaf.cf.us.hbomaxcdn.com
+comet.api.hbo.com
+cmaf.lln.us.hbomaxcdn.com
+dynamic-content-frontdoor.api.hbo.com
 
 #cbs
 cbs.com
