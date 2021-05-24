@@ -251,3 +251,8 @@ www.southwest.com
 
 r.shopdisney.com
 shopdisney.com
+
+poshmark.com
+api.poshmark.com
+et.poshmark.com
+up.poshmark.com
