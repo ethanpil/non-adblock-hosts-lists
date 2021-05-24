@@ -76,5 +76,16 @@ wag-services.addictinggames.com
 html5.gamedistribution.com
 gamedistribution.com
 
+games.aarp.org
+
+
+poki.com
+games.poki.com
+game-cdn.poki.com
+devs-api.poki.com
+t.poki.io
+a.poki.com
+geo.poki.io
+
 snake.io
 www.snake.io
