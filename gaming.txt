@@ -78,6 +78,7 @@ gamedistribution.com
 
 games.aarp.org
 
+api.glb.samsung-gamelauncher.com
 
 poki.com
 games.poki.com
